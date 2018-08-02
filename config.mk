@@ -1,5 +1,5 @@
 # st version
-VERSION = 0.8.1
+VERSION = 0.8.1-Mesih
 
 # Customize below to fit your system
 
